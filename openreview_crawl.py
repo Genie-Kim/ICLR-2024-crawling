@@ -173,7 +173,7 @@ if __name__ == '__main__':
     
     
     base_url = 'https://openreview.net/group?id=ICLR.cc/2024/Conference#tab-accept-oral'
-    save_dir = '/Users/genie/Downloads/ICLR2024'
+    save_dir = '/path/to/savepdf'
     
     columns = ['status', 'Name', 'Abstract', 'Keywords', 'Primary Area', 'URL']
 
